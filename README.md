@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Gospel
-    Gospel — _GOS-puhl_ (like the English word "gospel").
-    Ayodele — _Ah-yoh-DEH-leh_ (a Yoruba name meaning "joy has come home").
+- **Gospel** — *GOS-puhl* (like the English word "gospel").
+- **Ayodele** — *Ah-yoh-DEH-leh* (a Yoruba name meaning "joy has come home").
+
 
 ### 📊 Data Analytics | 📈 Business Intelligence | 🌍 Applied Economics
 
