@@ -30,34 +30,51 @@ I enjoy working where **data, technology, and real-world decision-making** meet.
 
 ## 🛠️ My Analytics Toolkit
 
-Different problems call for different tools. Here's what I work with!
+Different analytical challenges require different tools. From data preparation and statistical modelling to business intelligence and AI-powered analytics, here's my toolkit!
 
 ### 💻 Programming & Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logoColor=white)
 
-### 📊 Business Intelligence & Visualization
+### 📊 Business Intelligence & Data Visualization
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### ⚙️ Data Preparation, Transformation & Workflow Automation
+
+![Tableau Prep](https://img.shields.io/badge/Tableau_Prep-5279C7?style=for-the-badge&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logoColor=white)
+
+### 📈 Statistical Analysis, Econometrics & SEM
+
+![Stata](https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logoColor=white)
+![IBM SPSS Statistics](https://img.shields.io/badge/IBM_SPSS_Statistics-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![SmartPLS](https://img.shields.io/badge/SmartPLS-0085CA?style=for-the-badge&logoColor=white)
+![jamovi](https://img.shields.io/badge/jamovi-5B8C5A?style=for-the-badge&logoColor=white)
 
 ### ☁️ Data Platforms
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### 🔬 Analytical Methods
+### 🔬 Analytical Methods & Techniques
 
-Beyond the tools, I enjoy getting into the analytical details:
+Beyond the tools, I enjoy diving into analytical methods that help uncover deeper insights:
 
-- 📈 Forecasting & Scenario Analysis
-- 🎯 Propensity Score Matching
-- 🔄 Endogenous Switching Regression
-- 🧩 Structural Equation Modelling
+- 📈 **Forecasting & Scenario Analysis**
+- 🎯 **Propensity Score Matching (PSM)**
+- 🔄 **Endogenous Switching Regression (ESR)**
+- 🧩 **Structural Equation Modelling (SEM & PLS-SEM)**
+- 📊 **Regression Analysis & Econometric Modelling**
+- 🧪 **Hypothesis Testing & Statistical Inference**
+- ⚙️ **Data Cleaning, Transformation & Workflow Automation**
+- 📉 **Business Performance Analysis & KPI Reporting**
 
-Because sometimes the most interesting insights require going a little deeper than a dashboard. 😉
+Because sometimes the most valuable insights require going a little deeper than a dashboard. 😉
 
 ---
 
