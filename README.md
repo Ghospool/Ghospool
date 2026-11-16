@@ -8,7 +8,7 @@ I'm passionate about making data *make sense*. Whether it's building dashboards,
 
 My journey combines **5 years of applied analytics experience at McKinsey & Company** with doctoral research in **agricultural economics and sustainable technologies**. A little bit of business, a little bit of research, and a whole lot of data!
 
-📍 **Currently based in:** Leduc, Alberta, Canada 🇨🇦
+📍 **Currently based in:** Alberta, Canada 🇨🇦
 
 🔍 **Things that keep me curious:** Business Intelligence, Data Engineering, Applied Econometrics, and AI-powered Analytics.
 
