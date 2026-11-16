@@ -84,6 +84,7 @@ My doctoral research took me deep into the world of **agricultural economics**, 
 - 💰 Smallholder farmers' income
 - 🌱 Agricultural yields
 - 🛒 Market access and opportunities
+- 🤝 Cooperative and farmer networks
 
 The research covered **Kenya 🇰🇪, Ghana 🇬🇭, Nigeria 🇳🇬, and Zambia 🇿🇲**.
 
